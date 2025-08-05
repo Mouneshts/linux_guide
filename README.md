@@ -1,21 +1,20 @@
 # linux_basics_commands
 List of Linux commands essentials for Devops  
 
-Beginner Level
-    Command	                    Description
-    pwd	                        Show current directory path
-    ls	                        List files in a directory
-    cd                          <dir>	Change directory
-    mkdir <dir>	                Create a new directory
-    touch <file>	              Create a new empty file
-    cp <src> <dest>	            Copy files or directories
-    mv <src> <dest>	            Move or rename files
-    rm <file>	                  Delete a file
-    rmdir <dir>	                Remove an empty directory
-    cat <file>	                Display file content
-    echo "text"	                Print text to terminal
-    man <command>	              Show manual/help for a command
-    clear	                      Clear the terminal screen
+Command	Description
+pwd	Show current directory path
+ls	List files in a directory
+cd <dir>	Change directory
+mkdir <dir>	Create a new directory
+touch <file>	Create a new empty file
+cp <src> <dest>	Copy files or directories
+mv <src> <dest>	Move or rename files
+rm <file>	Delete a file
+rmdir <dir>	Remove an empty directory
+cat <file>	Display file content
+echo "text"	Print text to terminal
+man <command>	Show manual/help for a command
+clear	Clear the terminal screen
 
 Intermediate Level
     Command	                      Description
