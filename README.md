@@ -46,3 +46,9 @@ Intermediate Level
     strace <command>	            Trace system calls
     curl / wget	                  Download files from web
     docker / kubectl	            Container and Kubernetes management
+
+| Name     | Role               | Location   |
+|----------|--------------------|------------|
+| Mounesh  | Associate    ltant | Bangalore  |
+| Vikash   | Manager            | Bangalore  |
+| Rishi    | Skip Manager       | Bangalore  |
