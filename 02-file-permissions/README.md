@@ -42,6 +42,7 @@ Examples:
 chmod 755 filename  # User (rwx), Group (r-x), Others (r-x)
 chmod 644 filename  # User (rw-), Group (r--), Others (r--)
 chmod 700 filename  # User (rwx), No access for others
+chmod 777 filename  # User (rwx), Group (rwx), Others(rwx)
 ```
 
 ## Changing Ownership with `chown`
