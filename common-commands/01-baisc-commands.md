@@ -1,4 +1,5 @@
 ### printing the number 1 to 100 which divided by 2 & 3 but 15
+```bash
 #!/bin/bash
 #Author: Mouneh
 #Date: 23-10-2025
@@ -7,13 +8,15 @@ set -x;
 qii
 for i in {1..30};
 do
-        if['expr $a %2==0']|| ['expr $a %3==0'];
+        if['expr $i %2==0']|| ['expr $i %3==0'];
         then
-        echo 'the Numbers are' $a
+        echo 'the Numbers are' $i
        fi;
-ne
+done
+```
 
-
+### This script prints numbers from 1 to 30, which are multiples of 2 or 3 but not 15.
+```bash
 #!/bin/bash
 #Author: Mounesh
 #Date: 23-10-2025
@@ -27,3 +30,4 @@ do
         echo "$i"
     fi
 done
+```
